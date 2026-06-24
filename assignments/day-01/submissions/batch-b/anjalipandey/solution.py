@@ -40,4 +40,4 @@ student = {
 print(student)
 
 #6 comment
-print("This program demonstrates the use of variable,listand dictionaries in python")
+print("This program shows the use of variables,data types,lists and dictionaries in python")
